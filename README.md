@@ -42,7 +42,7 @@ where XXXX is the id number of the project
 2. Compile & Run
 
 ## Acknowledgements
-- This project was created for the requirements of the lesson Introduction to Computers.
+- This project was created for the requirements of the lesson Structured programming
 - First steps on learning C
 
 [^1]: The user can give different input  many times. 
