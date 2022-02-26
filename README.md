@@ -43,6 +43,7 @@ where XXXX is the id number of the project
 
 ## Acknowledgements
 - This project was created for the requirements of the lesson Introduction to Computers.
+- First steps on learning C
 
 [^1]: The user can give different input  many times. 
 [^2]: The point is the sum of mirror pair to be equal to the first element of the table.
