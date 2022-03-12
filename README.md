@@ -1,4 +1,4 @@
-# BasicRecursions
+# Recursions
  Recursive function to handle calculations
  
 
