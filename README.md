@@ -1,5 +1,5 @@
 # Recursions
- Recursive function to handle calculations
+ Recursive functions to handle calculations
  
 
 ## Table of contents
@@ -14,8 +14,8 @@ The goal of the programs is familiarity with recursive functions
 In all recursions:
 * Loops are forbidden
 * Declaration of global/static variables is forbidden
-
-The setting in every work is the dynamic memory allocation
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a
+Settings in every work is the dynamic memory allocation
 Each program runs the menu repeatedly [^1] until its successful termination.
 Print messages according to outputs.
 
